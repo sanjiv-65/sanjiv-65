@@ -1,4 +1,4 @@
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/12BRPGt13Ju/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sanjiv_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/sanjiv-mahato) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrsanjiv105@gmail.com) 
 
 ## 💻 Tech Stack:
@@ -7,3 +7,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=sanjiv-65&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sanjiv-65&theme=aura_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjiv-65&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
